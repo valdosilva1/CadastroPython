@@ -1,8 +1,8 @@
-# Sistema de Cadastro de Usuários em Python
+Sistema de Cadastro de Usuários em Python
 
 Projeto simples desenvolvido para praticar lógica de programação utilizando Python.
 
-## Sobre o projeto
+Sobre o projeto
 
 Este programa funciona no terminal e permite cadastrar, listar e remover usuários de uma lista em memória.
 
@@ -13,11 +13,11 @@ O objetivo foi praticar:
 * listas
 * interação com o usuário
 
-## Tecnologias utilizadas
+Tecnologias utilizadas
 
 * Python 3
 
-## Como executar
+Como executar
 
 1. Baixe ou clone o repositório
 2. Abra o terminal dentro da pasta do projeto
@@ -25,14 +25,14 @@ O objetivo foi praticar:
 
 python main.py
 
-## Funcionalidades
+Funcionalidades
 
 * Cadastrar usuários
 * Listar usuários cadastrados
 * Remover usuários
 * Encerrar o sistema
 
-## Autor
+Autor
 
 Valdo
 Estudante de Análise e Desenvolvimento de Sistemas
